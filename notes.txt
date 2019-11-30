@@ -1,0 +1,6 @@
+# https://realpython.com/python-continuous-integration/
+# Flake8 is a linter, linters monitor you code and flag lines that don't conform
+# to style guide best practices
+
+# A standard practice that goes hand in hand with testing is calculating code coverage. Code coverage is the percentage of source code that is “covered” by your tests. 
+
